@@ -1,7 +1,7 @@
 //
 //  ViewController.swift
 //  Segues
-//
+//Omg
 //  Created by Scholar on 7/14/22.
 //HelloWorld
 
